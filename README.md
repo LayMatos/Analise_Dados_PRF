@@ -1,15 +1,18 @@
 # 🚨 Análise de Acidentes da PRF com Machine Learning
 
+[](https://github.com/LayMatos/Analise_Dados_PRF/blob/main/README.md#-an%C3%A1lise-de-acidentes-da-prf-com-machine-learning)
+
 Este projeto realiza uma análise exploratória e modelagem preditiva usando dados de acidentes da Polícia Rodoviária Federal (PRF). Ele inclui desde a limpeza de dados até a aplicação de algoritmos de Machine Learning e geração de relatórios visuais e textuais.
 
-Link dos dados (colocar dentro da pasta dados)
-https://www.kaggle.com/datasets/tgomesjuliana/police-traffic-incidents
+Link dos dados (colocar dentro da pasta dados)  [https://www.kaggle.com/datasets/tgomesjuliana/police-traffic-incidents](https://www.kaggle.com/datasets/tgomesjuliana/police-traffic-incidents)
 
----
+----------
 
 ## 📁 Estrutura do Projeto
 
-```text
+[](https://github.com/LayMatos/Analise_Dados_PRF/blob/main/README.md#-estrutura-do-projeto)
+
+```bash
 📦 prf-acidentes/
 ├── dados/                  # Arquivos CSV originais
 ├── resultados/             # Gráficos gerados automaticamente
@@ -18,7 +21,7 @@ https://www.kaggle.com/datasets/tgomesjuliana/police-traffic-incidents
 ├── analise_prf_completo.py # Script principal (análise + modelagem)
 ├── gerar_relatorio.py      # (opcional) Geração de PDF com fpdf2
 └── README.md               # Este arquivo (documentação do projeto)
-
+```
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -136,5 +139,4 @@ python analise_prf_completo.py
 # 4. Veja os resultados em:
 #    - resultados/ (gráficos)
 #    - texto_analise.txt (relatório textual)
-
-
+```
