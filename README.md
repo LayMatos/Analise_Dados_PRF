@@ -2,6 +2,9 @@
 
 Este projeto realiza uma análise exploratória e modelagem preditiva usando dados de acidentes da Polícia Rodoviária Federal (PRF). Ele inclui desde a limpeza de dados até a aplicação de algoritmos de Machine Learning e geração de relatórios visuais e textuais.
 
+Link dos dados 
+https://www.kaggle.com/datasets/tgomesjuliana/police-traffic-incidents
+
 ---
 
 ## 📁 Estrutura do Projeto
